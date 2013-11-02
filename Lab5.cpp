@@ -187,3 +187,5 @@ Room* Room::getEast() {
 string Room::getDescription() {
 	return(description);
 }
+
+11 test
